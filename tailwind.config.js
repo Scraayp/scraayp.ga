@@ -6,6 +6,7 @@ module.exports = {
     "./plugins/**/*.{js,ts}",
     "./nuxt.config.{js,ts}",
   ],
+  dark: 'media',
   theme: {
     extend: {},
   },
