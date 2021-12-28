@@ -20,7 +20,7 @@
 			</ul>
 		</div>
 		<div class="order-2 md:order-3">
-			<a href="https://scraayp.ga/admin/login">
+			<a href="https://scraayp.ga/login">
 			<button class="flex gap-2 items-center px-4 py-2 text-gray-50 bg-indigo-500 rounded-xl hover:bg-indigo-600">
                 <!-- Heroicons - Login Solid -->
                 <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 20 20" fill="currentColor">
