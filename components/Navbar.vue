@@ -25,13 +25,19 @@
         <ul class="flex justify-between font-semibold">
           <!-- Active Link = text-indigo-500
                 Inactive Link = hover:text-indigo-500 -->
-          <li class="text-indigo-500 md:px-4 md:py-2">
+          <li
+            class="hover:text-indigo-500 dark:hover:text-gray-300 dark:text-white md:px-4 md:py-2"
+          >
             <a href="https://scraayp.ga">Home</a>
           </li>
-          <li class="md:px-4 md:py-2 hover:text-indigo-400">
+          <li
+            class="md:px-4 md:py-2 dark:hover:text-gray-300 dark:text-white hover:text-indigo-400"
+          >
             <a href="https://scraayp.ga/socials">Socials</a>
           </li>
-          <li class="md:px-4 md:py-2 hover:text-indigo-400">
+          <li
+            class="md:px-4 md:py-2 dark:hover:text-gray-300 dark:text-white hover:text-indigo-400"
+          >
             <a href="https://scraayp.ga/contact">Contact</a>
           </li>
         </ul>
@@ -39,7 +45,7 @@
       <div class="order-2 md:order-3">
         <a href="https://scraayp.ga/login">
           <button
-            class="flex gap-2 items-center px-4 py-2 text-gray-50 bg-indigo-500 rounded-xl hover:bg-indigo-600"
+            class="flex gap-2 items-center px-4 py-2 text-gray-50 bg-indigo-500 rounded-xl hover:bg-indigo-400 dark:hover:bg-indigo-600"
           >
             <!-- Heroicons - Login Solid -->
             <svg
